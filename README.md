@@ -6,3 +6,5 @@
 
 
 #Adding a few lines of coded here
+
+#So I need pull, then save, then commit, then push,
