@@ -8,3 +8,5 @@
 #Adding a few lines of coded here
 
 #So I need pull, then save, then commit, then push,
+
+#Now I can also edit the file ehre and what not
